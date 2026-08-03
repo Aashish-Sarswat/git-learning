@@ -1,2 +1,3 @@
 # git-learning
-My first repository for learning git and gitHub.
+This is my first Git repository .
+Author - Aashish Sarswat
